@@ -1,2 +1,2 @@
-# Quant-Trading-Concepts
-Repositório oficial do departamento de Innovative Trading do NOVA Finance Club. Coleção de Jupyter Notebooks explorando finanças quantitativas, gestão de risco e modelagem de portfólios.
+## Quant-Trading-Concepts
+Official repository of the NOVA Finance Club's Innovative Trading department. A collection of Jupyter Notebooks exploring quantitative finance, risk management, and portfolio modeling.
